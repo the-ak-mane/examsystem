@@ -1,0 +1,4 @@
+com\gslab\exam\entity\Question.class
+com\gslab\exam\ExamServiceApplication.class
+com\gslab\exam\service\ExamService.class
+com\gslab\exam\controller\examController.class
